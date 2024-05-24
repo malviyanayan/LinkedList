@@ -2,12 +2,13 @@ import java.util.LinkedList;
 
 /**
  *   This is Linked list program from collection framework
+ * 
  */
 
 class Ex1 {
     public static void main(String[] args) {
         // LinkedList as a List
-        LinkedList x = new LinkedList();
+        LinkedList<Integer> x = new LinkedList<Integer>();
 
         x.add(34);
         x.add(56);
