@@ -18,11 +18,16 @@ class Ex1 {
 
         System.out.println(x);
 
-        System.out.println(x.remove(0));
-        System.out.println(x.remove(0));
-        System.out.println(x.remove(0));
-        System.out.println(x.remove(0));
-        System.out.println(x.remove(0));
+        // System.out.println(x.remove(0));
+        // System.out.println(x.remove(0));
+        // System.out.println(x.remove(0));
+        // System.out.println(x.remove(0));
+        // System.out.println(x.remove(0));
+        System.out.println(x.get(0));
+        System.out.println(x.get(0));
+        System.out.println(x.get(0));
+        System.out.println(x.get(0));
+        System.out.println(x.get(0));
 
         System.out.println(x);
     }
